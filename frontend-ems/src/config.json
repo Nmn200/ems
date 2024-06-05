@@ -1,0 +1,7 @@
+{
+    "frontend_url": "http://localhost:3000",
+    "backend_url": "http://localhost:8000",
+  "REDIRECT_URI": "http://localhost:3000"
+
+    }
+  
